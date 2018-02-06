@@ -3,7 +3,13 @@
 
 ---
 
+## Jason Carter
+## Software Engineer at Mavenlink
+
+---
+
 # Slack
+![](./slack_logo.png)
 
 ---
 
@@ -23,7 +29,7 @@
 
 ---
 
-# How can we build better tools to support this community?
+## How can we build *better tools* to support this community?
 
 ---
 
@@ -34,11 +40,15 @@
 
 ---
 
+## Afterwards, we'll have time to hack on our own bots!
+
+---
+
 # How I got into building Slackbots
 
 ---
 
-## At its core, software development is about solving problems for users with code
+## At its core, software development is about _solving problems_ for users with `code`
 
 ---
 
@@ -59,19 +69,26 @@
 ---
 
 ### Deleter Bot - Delete all my messages in a channel
-### Notifier Bot - @channel in slack when @channel has been disabled by an admin (looking at you Holdy)
+### Notifier Bot - @channel in slack when @channel has been disabled by an admin
 
 ---
 
-# Lets solve a better problem!
+# What other problems can we solve?
 
 ---
 
-# It's hard to know _when_ someone has deployed to production
+![](./mavenlink_logo.jpg)
 
 ---
 
-# It's hard to know _what_ someone has deployed to production
+# It's hard to know...
+---
+
+# _when_ someone has deployed to production
+
+---
+
+# _what_ someone has deployed to production
 
 ---
 
@@ -103,6 +120,10 @@
 
 ---
 
+## However did you do it!?
+
+---
+
 # Building a Slackbot in Ruby
 
 ---
@@ -118,23 +139,23 @@
 
 ---
 
-## Slack Ruby Bot
-- Commands
-- Listeners
-- MVC
+# Let's solve another problem!
 
 ---
 
-# An example bot
-- @urugbot reddit politics hot
+![](./reddit_large.jpg)
 
 ---
 
-# An example bot
+## [fit] `@reddit-bot reddit politics rising`
+
+---
+
 - Listen for a command
 - Parse out two args `:subreddit` and `:filter`
 - Make an API call
 - Return pretty output
+- Handle server errors
 
 ---
 
@@ -142,33 +163,59 @@
 
 ---
 
-## What more can I do?
+## What else is possible?
 - API
 - Respond to events
 - Webhooks
-- Messages and Dialogs
+- Message Menus
+- Dialogs
 
 ---
 
-# API
-- What if your bot could talk to a rails app?
-- Meetup submissions and tracking through the Rails app?
+![fit](./api.gif)
 
 ---
 
-# Respond to events
-- What if your bot could welcome new members and point them to channels?
-- Get them to introduce themselves?
+![fit](./onboarding.gif)
 
 ---
 
-# Webhooks
-- What if your bot could respond Meetup webhooks and post when a new meetup is announced?
+![fit](./webhooks.png)
 
 ---
 
-# Messages and Dialogs
+![fit](./message_menus.gif)
 
 ---
+
+![fit](./dialog_demo.gif)
+
+---
+
+## What _problems_ do we have as a community, and _could a bot help_?
+
+---
+
+# Fin
+
+---
+
+# Articles
+- [Top Bots on Slack](https://botlist.co/platforms/slack/most-viewed)
+- [Using Message Menus in a Production Bot](https://medium.com/slack-developer-blog/bringing-bot-interaction-to-a-new-level-d49f99169a03)
+- [Introduction to Dialogues](https://medium.com/slack-developer-blog/building-more-intricate-workflows-in-slack-with-dialogs-74f122ed887c)
+
+---
+
+# Tools
+- [Protoype Converstations with Walkie](https://walkiebot.co/)
+
+---
+
+
+# References
+- [Slack API](https://api.slack.com)
+- [sample-message-menus-app](https://github.com/slackapi/sample-message-menus)
+- [sample-onboarding-app](https://github.com/slackapi/Slack-Ruby-Onboarding-Tutorial)
 
 
