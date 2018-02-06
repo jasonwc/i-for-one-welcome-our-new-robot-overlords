@@ -9,7 +9,7 @@
 ---
 
 # Slack
-![](./slack_logo.png)
+![](./assets/slack_logo.png)
 
 ---
 
@@ -17,15 +17,15 @@
 
 ---
 
-![fit](./usage.png)
+![fit](./assets/usage.png)
 
 ---
 
-![fit](./active_users.gif)
+![fit](./assets/active_users.gif)
 
 ---
 
-![fit](./public_and_private.gif)
+![fit](./assets/public_and_private.gif)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-![](./kicker_bot.png)
+![](./assets/kicker_bot.png)
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-![](./mavenlink_logo.jpg)
+![](./assets/mavenlink_logo.jpg)
 
 ---
 
@@ -97,11 +97,11 @@
 ---
 
 # Mavbot
-![](./mavbot.jpg)
+![](./assets/mavbot.jpg)
 
 ---
 
-![](./announce_deploy_v1.png)
+![](./assets/announce_deploy_v1.png)
 
 ---
 
@@ -109,7 +109,7 @@
 
 ---
 
-![](./announce_deploy_v2.png)
+![](./assets/announce_deploy_v2.png)
 
 ---
 
@@ -143,7 +143,7 @@
 
 ---
 
-![](./reddit_large.jpg)
+![](./assets/reddit_large.jpg)
 
 ---
 
@@ -172,23 +172,23 @@
 
 ---
 
-![fit](./api.gif)
+![fit](./assets/api.gif)
 
 ---
 
-![fit](./onboarding.gif)
+![fit](./assets/onboarding.gif)
 
 ---
 
-![fit](./webhooks.png)
+![fit](./assets/webhooks.png)
 
 ---
 
-![fit](./message_menus.gif)
+![fit](./assets/message_menus.gif)
 
 ---
 
-![fit](./dialog_demo.gif)
+![fit](./assets/dialog_demo.gif)
 
 ---
 
@@ -211,7 +211,6 @@
 - [Protoype Converstations with Walkie](https://walkiebot.co/)
 
 ---
-
 
 # References
 - [Slack API](https://api.slack.com)
